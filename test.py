@@ -8,3 +8,5 @@ else:
 print(sample_url[-3:])
 
 print " testing the commit"
+
+print " checking for revision number"
