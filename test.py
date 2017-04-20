@@ -16,3 +16,5 @@ print " checking it from linux "
 print " checking emacs "
 
 print " checking ssh keys "
+
+print " checking the branch "
