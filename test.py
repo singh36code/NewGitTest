@@ -12,3 +12,5 @@ print " testing the commit"
 print " checking for revision number"
 
 print " checking it from linux "
+
+print " checking emacs "
