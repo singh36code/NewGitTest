@@ -14,3 +14,5 @@ print " checking for revision number"
 print " checking it from linux "
 
 print " checking emacs "
+
+print " checking ssh keys "
